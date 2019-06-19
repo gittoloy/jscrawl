@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "babel-node ./src/index.js",
     "release": "webpack",
-    "example": "http-server -p 8880"
+    "example": "http-server -p 8889 -c-1"
   },
   "repository": {
     "type": "git",
